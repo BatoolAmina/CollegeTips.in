@@ -1,4 +1,4 @@
-#📸 CollegeTips Photo Gallery
+# 📸 CollegeTips Photo Gallery
 Hey! 👋
 This is a fun little photo gallery I built using basic HTML, CSS, and JavaScript. It shows some awesome CollegeTips moments, and you can filter images by category or click on them to see them in full size.
 
